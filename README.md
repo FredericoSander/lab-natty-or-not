@@ -35,7 +35,7 @@ Contribuições são sempre bem-vindas!
 - [Frederico Sander](https://github.com/FredericoSander)
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou uma pessoa estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia e programação me impulsiona a buscar oportunidades na área de TI, com um foco pelo desenvolvimento Backend. Tenho especial interesse em linguagens de programação orientadas a objetos, como Java, C#, Python, SQL e PHP, bem como em sistemas de Banco de Dados, tanto relacionais quanto não relacionais.
 
 
 ## 🔗 Links
