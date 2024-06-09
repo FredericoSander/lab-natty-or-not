@@ -1,10 +1,9 @@
 # Trabalhando com IAs Generativas: Um guia para o Desenvolvedor Junior
 
-Este projeto de e-book possui 8 paginas
 
 
 ## 📒 Descrição
-Este consiste na criação de um e-book utilizando os recursos disponiveis nas IAs Generativas. Neste projeto foram utilizadas duas IAs Generativas, que são o Chat GPT e o Leonardo IA.
+Este consiste na criação de um e-book com 8 paginas, utilizando os recursos disponiveis nas IAs Generativas. Neste projeto foram utilizadas duas IAs Generativas, que são o Chat GPT e o Leonardo IA.
 
 
 ## 🤖 Tecnologias Utilizadas
