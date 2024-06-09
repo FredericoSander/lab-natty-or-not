@@ -25,7 +25,7 @@ O resultado é um e-book que não só apresenta conteúdo rico e envolvente, mas
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Desde a pesquisa e estruturação do conteúdo até a criação de elementos visuais e a montagem final, cada etapa do processo evidenciou como as IAs podem facilitar e aprimorar projetos de criação de conteúdo.
 
 ## E-book
-[Trabalhando com IAs Generativas: Um guia para o Desenvolvedor Junior]()
+[Trabalhando com IAs Generativas: Um guia para o Desenvolvedor Junior](https://github.com/FredericoSander/lab-natty-or-not/blob/main/e-book/E-book%20IA.pdf)
 
 ## Contribuindo
 
