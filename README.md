@@ -13,7 +13,8 @@ Este consiste na criação de um e-book com 8 paginas, utilizando os recursos di
 
 ## 🧐 Processo de Criação
 - **Pesquisa e roteirização**
-O chat GPT foi para a criação do roteiro de pesquisa a ser desenvolvida. A partir do roteiro inicial foi realizada a revisão dos tópicos e o detalahmento do assunto incluído imagens de exemplo. - **Criação Visual**
+O chat GPT foi para a criação do roteiro de pesquisa a ser desenvolvida. A partir do roteiro inicial foi realizada a revisão dos tópicos e o detalahmento do assunto incluído imagens de exemplo.
+- **Criação Visual**
 A capa do e-book foi construída com a utilização do Leonardo IA. nesta fase foi necessária a utilização do Chat GPT para geração de prompts de comando que possibilitaram a criação das duas imagens.
 - **Edição e Montagem**
 A montagem final foi realizada no Libre Office, uma ferramenta open-source que oferece uma ampla gama de recursos para edição de texto e formatação. O uso do Libre Office permitiu flexibilidade e controle total sobre o layout e a apresentação final do e-book.
